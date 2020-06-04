@@ -11,4 +11,4 @@ Money Send & Request is a straight forward script, it allows you to send a reciv
 - Release
 
 # Support
-For support with this scipt please visit https://jxckdev.co/contact-me/
+For support with this scipt please visit https://github.com/jxckdevelopment/xE2/issues/new
