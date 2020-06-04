@@ -1,20 +1,9 @@
 @name xE2 | Rainbow Physgun [v1] | jxckdev.co
  
 #[
- 
-Copyright - 2020 xE2 (Operated by JxckDev) - All Rights Reserved.
- 
-This script was developed by jxck of jxckdev.co
-This script is only to be changed in a limited capacity.
-You can only change clearly marked sections of this script.
-Visit 'copyright.jxckdev.co' for more info.
- 
------------------------------------------------------------
- 
-Thanks for using Rainbow Physgun by xE2.
-For command usage, change logs and latest versions please visit
-www.jxckdev.co/rainbow-physgun/
- 
+
+This script was made by JxckDev @ www.jxckdev.co 
+
 ]#
  
 ##################################################
