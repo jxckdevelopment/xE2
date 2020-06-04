@@ -7,4 +7,4 @@ Crouch Invis is a simple script, just place the chip down and when you use your 
 - Release
 
 # Support
-For support with this scipt please visit https://jxckdev.co/contact-me/
+For support with this scipt please visit https://github.com/jxckdevelopment/xE2/issues/new
