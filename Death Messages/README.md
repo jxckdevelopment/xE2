@@ -6,4 +6,4 @@ When using Death Messages and you kill another player the script will auto say '
 - Release
 
 # Support
-For support with this scipt please visit https://jxckdev.co/contact-me/
+For support with this scipt please visit https://github.com/jxckdevelopment/xE2/issues/new
