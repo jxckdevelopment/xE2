@@ -2,7 +2,7 @@
 
 #[
 
-This script was made by JxckDev @ www.jxckdev.co
+This script was made by JxckDev @ www.jxckdev.co 
 
 ]#
 
