@@ -11,4 +11,4 @@ Rainbow Physgun is an easy to use script, just place the chip down and hold out 
 - Release
 
 # Support
-For support with this scipt please visit https://jxckdev.co/contact-me/
+For support with this scipt please visit https://github.com/jxckdevelopment/xE2/issues/new
