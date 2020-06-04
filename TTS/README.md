@@ -6,4 +6,4 @@ TTS is a simple Text To Speach script, although it wont say your pm's, admin cha
 - Release
 
 # Support
-For support with this scipt please visit https://jxckdev.co/contact-me/
+For support with this scipt please visit https://github.com/jxckdevelopment/xE2/issues/new
