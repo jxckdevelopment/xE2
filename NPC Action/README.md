@@ -6,4 +6,4 @@ NPC Action allows player to press E on you and a message will be auto-sent to th
 - Release
 
 # Support
-For support with this scipt please visit https://jxckdev.co/contact-me/
+For support with this scipt please visit https://github.com/jxckdevelopment/xE2/issues/new
