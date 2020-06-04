@@ -1,4 +1,4 @@
-@name xE2 | Money Send/Reqeust [v1] | www.jxckdev.com
+@name xE2 | Money Send/Reqeust [v1] | www.jxckdev.com 
  
 #[
 
